@@ -21,6 +21,11 @@ html {
   a {
     font-family: 'Courier New', Courier, monospace;
   }
+  .contact {
+    background-color: #ced9fb;
+    border-radius: 3%;
+    height: 275px;
+  }
   .about {
     background-color: #ced9fb;
     border-radius: 3%;
